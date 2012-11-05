@@ -6,7 +6,7 @@ Further information about the concept on http://juliaeichler.de/2012/10/danspire
 
 ### About the code
 
-The code remains in the state as of the final version that run during the final show in September 2012. I am aware, that there are quite a few repetitions which could have been reduced to some classes to make the code run more efficiently. 
+The code remains in the state as of the final version that run during the final show in September 2012. I am aware, that there are quite a few repetitions which could have been reduced to some classes to make the code run more efficiently. I also kept some lines commented out which I used for debugging when working with only one computer.
 
 *openFrameworks version* 0071
 
