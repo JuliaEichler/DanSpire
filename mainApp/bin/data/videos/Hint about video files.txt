@@ -1,1 +1,1 @@
-The mp4-Video files for Jive, Salsa, and Waltz would be in here.
+The mp4-Video files for Jive, Salsa, and Waltz would be in here. However, these files would be required here only for debugging reasons. The actual video projection is done by the videoProjection app.
